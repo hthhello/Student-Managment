@@ -1,0 +1,76 @@
+C:\lam\lam\c#\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe.config
+C:\lam\lam\c#\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe
+C:\lam\lam\c#\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.pdb
+C:\lam\lam\c#\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.csprojResolveAssemblyReference.cache
+C:\lam\lam\c#\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Form1.resources
+C:\lam\lam\c#\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Properties.Resources.resources
+C:\lam\lam\c#\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.csproj.GenerateResource.Cache
+C:\lam\lam\c#\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.exe
+C:\lam\lam\c#\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.pdb
+G:\moi truong lap trinh truc quan\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe.config
+G:\moi truong lap trinh truc quan\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.exe
+G:\moi truong lap trinh truc quan\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.pdb
+G:\moi truong lap trinh truc quan\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe
+G:\moi truong lap trinh truc quan\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.pdb
+G:\moi truong lap trinh truc quan\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.csprojResolveAssemblyReference.cache
+G:\moi truong lap trinh truc quan\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Form1.resources
+G:\moi truong lap trinh truc quan\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Properties.Resources.resources
+G:\moi truong lap trinh truc quan\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.csproj.GenerateResource.Cache
+C:\Users\hthhe_000\Dropbox\Student\Projects\BaiTapLonMoiTruong\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe.config
+C:\Users\hthhe_000\Dropbox\Student\Projects\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.exe
+C:\Users\hthhe_000\Dropbox\Student\Projects\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.pdb
+C:\Users\hthhe_000\Dropbox\Student\Projects\BaiTapLonMoiTruong\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe
+C:\Users\hthhe_000\Dropbox\Student\Projects\BaiTapLonMoiTruong\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.pdb
+C:\Users\hthhe_000\Dropbox\Student\Projects\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.csprojResolveAssemblyReference.cache
+C:\Users\hthhe_000\Dropbox\Student\Projects\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Form1.resources
+C:\Users\hthhe_000\Dropbox\Student\Projects\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Properties.Resources.resources
+C:\Users\hthhe_000\Dropbox\Student\Projects\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.csproj.GenerateResource.Cache
+C:\lam\lam\bai tap lon\moi truong lap trinh truc quan\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe.config
+C:\lam\lam\bai tap lon\moi truong lap trinh truc quan\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.exe
+C:\lam\lam\bai tap lon\moi truong lap trinh truc quan\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.pdb
+C:\lam\lam\bai tap lon\moi truong lap trinh truc quan\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe
+C:\lam\lam\bai tap lon\moi truong lap trinh truc quan\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.pdb
+C:\lam\lam\bai tap lon\moi truong lap trinh truc quan\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.csprojResolveAssemblyReference.cache
+C:\lam\lam\bai tap lon\moi truong lap trinh truc quan\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Form1.resources
+C:\lam\lam\bai tap lon\moi truong lap trinh truc quan\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Properties.Resources.resources
+C:\lam\lam\bai tap lon\moi truong lap trinh truc quan\Bai tap lon\BaiTapLonMoiTruong\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.csproj.GenerateResource.Cache
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe.config
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.exe
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.pdb
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.pdb
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.csprojResolveAssemblyReference.cache
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Form1.resources
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Properties.Resources.resources
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.csproj.GenerateResource.Cache
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe.config
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.exe
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.pdb
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.pdb
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.csprojResolveAssemblyReference.cache
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Form1.resources
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Properties.Resources.resources
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.csproj.GenerateResource.Cache
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ(updated)\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe.config
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ(updated)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.exe
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ(updated)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.pdb
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ(updated)\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ(updated)\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.pdb
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ(updated)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.csprojResolveAssemblyReference.cache
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ(updated)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Form1.resources
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ(updated)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Properties.Resources.resources
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ(updated)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.csproj.GenerateResource.Cache
+C:\lam\lam\bai tap lon\moi truong lap trinh truc quan\BTL-MTLTTQ(updated)\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe.config
+C:\lam\lam\bai tap lon\moi truong lap trinh truc quan\BTL-MTLTTQ(updated)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.exe
+C:\lam\lam\bai tap lon\moi truong lap trinh truc quan\BTL-MTLTTQ(updated)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.pdb
+C:\lam\lam\bai tap lon\moi truong lap trinh truc quan\BTL-MTLTTQ(updated)\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe
+C:\lam\lam\bai tap lon\moi truong lap trinh truc quan\BTL-MTLTTQ(updated)\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.pdb
+C:\lam\lam\bai tap lon\moi truong lap trinh truc quan\BTL-MTLTTQ(updated)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.csprojResolveAssemblyReference.cache
+C:\lam\lam\bai tap lon\moi truong lap trinh truc quan\BTL-MTLTTQ(updated)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Form1.resources
+C:\lam\lam\bai tap lon\moi truong lap trinh truc quan\BTL-MTLTTQ(updated)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Properties.Resources.resources
+C:\lam\lam\bai tap lon\moi truong lap trinh truc quan\BTL-MTLTTQ(updated)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.csproj.GenerateResource.Cache
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe.manifest
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.application
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.exe.manifest
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.application

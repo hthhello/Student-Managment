@@ -1,0 +1,60 @@
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ (1)\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe.config
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ (1)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.exe
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ (1)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.pdb
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ (1)\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe.manifest
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ (1)\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.application
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ (1)\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ (1)\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.pdb
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ (1)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\QUAN LY SINH VIEN.csprojResolveAssemblyReference.cache
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ (1)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Form1.resources
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ (1)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Properties.Resources.resources
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ (1)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\QUAN LY SINH VIEN.csproj.GenerateResource.Cache
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ (1)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.exe.manifest
+C:\Users\nguyenduyhanlam1996\Downloads\BTL-MTLTTQ (1)\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.application
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe.config
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.exe
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.pdb
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe.manifest
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.application
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.pdb
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\QUAN LY SINH VIEN.csprojResolveAssemblyReference.cache
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Form1.resources
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Properties.Resources.resources
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\QUAN LY SINH VIEN.csproj.GenerateResource.Cache
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.exe.manifest
+C:\Users\hthhe_000\Dropbox\Student\BTL - MTLTTQ\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.application
+D:\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe.config
+D:\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.exe
+D:\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.pdb
+D:\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe.manifest
+D:\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.application
+D:\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe
+D:\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.pdb
+D:\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\QUAN LY SINH VIEN.csprojResolveAssemblyReference.cache
+D:\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Form1.resources
+D:\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Properties.Resources.resources
+D:\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\QUAN LY SINH VIEN.csproj.GenerateResource.Cache
+D:\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.exe.manifest
+D:\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.application
+D:\Google Drive\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe.config
+D:\Google Drive\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.exe
+D:\Google Drive\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.pdb
+D:\Google Drive\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe.manifest
+D:\Google Drive\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.application
+D:\Google Drive\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe
+D:\Google Drive\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.pdb
+D:\Google Drive\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\QUAN LY SINH VIEN.csprojResolveAssemblyReference.cache
+D:\Google Drive\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Form1.resources
+D:\Google Drive\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Properties.Resources.resources
+D:\Google Drive\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\QUAN LY SINH VIEN.csproj.GenerateResource.Cache
+D:\Google Drive\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.exe.manifest
+D:\Google Drive\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.application
+E:\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\bin\Debug\BaiTapLonMoiTruong.exe.config
+E:\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.exe
+E:\Dropbox\Student\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.pdb
+D:\Dropbox\Student (Finish)\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Form1.resources
+D:\Dropbox\Student (Finish)\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.Properties.Resources.resources
+D:\Dropbox\Student (Finish)\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\QUAN LY SINH VIEN.csproj.GenerateResource.Cache
+D:\Dropbox\Student (Finish)\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.exe
+D:\Dropbox\Student (Finish)\Z - First Year\BTL - MTLTTQ (DONE)\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.pdb
