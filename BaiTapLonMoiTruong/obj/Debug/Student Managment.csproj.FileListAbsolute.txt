@@ -1,0 +1,13 @@
+D:\GitHub\Student-Managment\BaiTapLonMoiTruong\bin\Debug\StudentManagment.exe.config
+D:\GitHub\Student-Managment\BaiTapLonMoiTruong\bin\Debug\StudentManagment.exe.manifest
+D:\GitHub\Student-Managment\BaiTapLonMoiTruong\bin\Debug\StudentManagment.application
+D:\GitHub\Student-Managment\BaiTapLonMoiTruong\bin\Debug\StudentManagment.exe
+D:\GitHub\Student-Managment\BaiTapLonMoiTruong\bin\Debug\StudentManagment.pdb
+D:\GitHub\Student-Managment\BaiTapLonMoiTruong\obj\Debug\Student Managment.csprojResolveAssemblyReference.cache
+D:\GitHub\Student-Managment\BaiTapLonMoiTruong\obj\Debug\BaiTapLonMoiTruong.MainForm.resources
+D:\GitHub\Student-Managment\BaiTapLonMoiTruong\obj\Debug\StudentManagment.Properties.Resources.resources
+D:\GitHub\Student-Managment\BaiTapLonMoiTruong\obj\Debug\Student Managment.csproj.GenerateResource.Cache
+D:\GitHub\Student-Managment\BaiTapLonMoiTruong\obj\Debug\StudentManagment.exe.manifest
+D:\GitHub\Student-Managment\BaiTapLonMoiTruong\obj\Debug\StudentManagment.application
+D:\GitHub\Student-Managment\BaiTapLonMoiTruong\obj\Debug\StudentManagment.exe
+D:\GitHub\Student-Managment\BaiTapLonMoiTruong\obj\Debug\StudentManagment.pdb
