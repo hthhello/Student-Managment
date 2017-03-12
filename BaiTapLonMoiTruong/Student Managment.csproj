@@ -7,8 +7,8 @@
     <ProjectGuid>{8894E750-EFE8-475D-BD3E-49894265A1B1}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BaiTapLonMoiTruong</RootNamespace>
-    <AssemblyName>BaiTapLonMoiTruong</AssemblyName>
+    <RootNamespace>StudentManagment</RootNamespace>
+    <AssemblyName>StudentManagment</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <IsWebBootstrapper>false</IsWebBootstrapper>
@@ -94,6 +94,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
