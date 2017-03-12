@@ -13,12 +13,12 @@ using System.Data.SqlClient;
 
 namespace BaiTapLonMoiTruong
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
         int selectedChoice = 0;
         string k;
         string sexy;
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
         }

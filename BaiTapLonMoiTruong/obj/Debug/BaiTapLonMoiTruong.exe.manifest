@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BaiTapLonMoiTruong.exe" size="31168">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BaiTapLonMoiTruong.exe" size="29696">
       <assemblyIdentity name="BaiTapLonMoiTruong" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DCFnwtBWJM00lBeg53lEZWj8zYPJYkOlFuWzlJ/diUM=</dsig:DigestValue>
+        <dsig:DigestValue>ThAlxttOs5HCr+722gbPobai4XTzrnEfe0xaC/NKOLQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
